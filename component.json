@@ -1,0 +1,16 @@
+{
+  "name": "clear-ajax",
+  "repo": "segmentio/clear-ajax",
+  "description": "Clear all active AJAX requests.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/each": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
