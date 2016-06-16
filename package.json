@@ -1,6 +1,6 @@
 {
   "name": "@segment/clear-ajax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clear all active AJAX requests.",
   "keywords": [
     "ajax",
