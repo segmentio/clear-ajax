@@ -1,3 +1,9 @@
+
+1.0.2 / 2016-08-17
+==================
+
+  * Handle onreadystatechange, addEventListener, attachEvent (#2)
+
 1.0.1 / 2016-06-15
 ==================
 
